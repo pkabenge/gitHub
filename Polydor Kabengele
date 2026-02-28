@@ -1,0 +1,46 @@
+Devops engineer program
+Networking and security
+OS configuration and administration
+User management
+File and directory management
+Process management
+Bash shell scripting
+Virtualization and more
+ 
+
+Cloud Computing with AWS (Amazon Web Services): 
+Cloud computing is the delivery of computing services (servers, storage, databases, networking, software, and analytics) over the internet ("the cloud"). It allows users to access and store data remotely, reducing the need for local infrastructure while providing scalability, flexibility, and cost-efficiency. 
+In this training, you will learn:
+
+Cloud infrastructure basics
+Cloud architecture principles
+Various cloud services
+How to deploy and manage infrastructure and applications in the cloud
+ 
+The DevOps culture: 
+DevOps is a collaborative approach that combines software development (Dev) and IT Operations(Ops) practices to facilitate and make the software development and deployment process more reliable. It focuses on teamwork, automation, and continuous improvement to quickly build, test, and release software. 
+In this training, you will master:
+
+DevOps tools and best practices
+Version control (Git)
+Continuous Integration/Continuous Deployment (CI/CD)
+Configuration management
+Containerization and orchestration
+Infrastructure as Code (IaC)
+Monitoring and logging
+Security (DevSecOps) and more
+ 
+
+Some Tools & Technologies you‘ll learn
+Git – Version control
+Python – Scripting and automation
+Docker – Containerization
+Kubernetes – Container orchestration
+Jenkins – CI/CD automation
+Terraform – Infrastructure as Code
+Ansible – Configuration management
+Prometheus & Grafana – System monitoring
+Splunk – Log management
+Cloud services and automation
+Bash shell scripting
+And many more
